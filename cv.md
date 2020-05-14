@@ -20,9 +20,11 @@ Basic knowledge of:
 ### 6. Experience:
 Graduation project for the course "Website development using HTML, CSS, Javascript" [https://github.com/LVKhomyakova/lvkhomyakova.github.io](https://github.com/LVKhomyakova/lvkhomyakova.github.io).
 ### 7. Education:
+* (I'm doing at the moment) «JavaScript/Front-end» ([The Rolling Scopes School](https://rs.school/js/))
+* (I'm doing at the moment) JavaScript web application development ([IT-Academy](https://www.it-academy.by/course/front-end-developer/razrabotka-veb-prilozheniy-na-javascript/))
 * Website development using HTML, CSS, JavaScript ([IT-Academy](https://www.it-academy.by/course/front-end-developer/fd1-razrabotka-veb-saytov-s-ispolzovaniem-html-css-i-javascript/)).
 * Industrial ASP.NET development (EPAM course) ([IT-Academy](https://www.it-academy.by/course/asp-net-developer/nd2-razrabotka-prilozheniy-na-asp-net/)).
 * The basic  programming  using C#. Part 1, Part 2. ([https://ulearn.me/](https://ulearn.me/)).
 
 ### 8. English:
-Pre-intermediate (А2) 
+(I'm doing an intense course) Pre-intermediate (А2+)
