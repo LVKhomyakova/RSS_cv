@@ -5,7 +5,7 @@ Lyudmila Khomyakova
 - :e-mail: LV.Khomyakova@gmail.com
 
 ### 3. Summary:
-I want to realize myself as a Front-end Developer. I am responsible, accurate, keep myself up to date on the latest technlogy and improve my skills.
+I want to realize myself as a Front-end Developer. I am responsible, accurate, keep myself up to date on the latest technology and improve my skills.
 ### 4. Skills:
 Basic knowledge of:
 * .NET Framework
@@ -18,12 +18,14 @@ Basic knowledge of:
 [https://github.com/LVKhomyakova](https://github.com/LVKhomyakova)
   
 ### 6. Experience:
-* [Singolo](https://lvkhomyakova.github.io/singolo/)
-* [VirtualKeyboard](https://lvkhomyakova.github.io/VirtualKeyboard/dist/)
-* [Gem puzzle](https://lvkhomyakova.github.io/gem-puzzle/)
-* [English for kids](https://lvkhomyakova-english-for-kids.netlify.app/)
-* [Speak It](https://lvkhomyakova-speakit.netlify.app/)
+* [English puzzle](https://lvkhomyakova-english-puzzle.netlify.app/)
+* [Fancy weather](https://lvkhomyakova-fancy-weather.netlify.app/)
 * [Movie search](https://lvkhomyakova-movie-search.netlify.app/)
+* [Speak It](https://lvkhomyakova-speakit.netlify.app/)
+* [English for kids](https://lvkhomyakova-english-for-kids.netlify.app/)
+* [Gem puzzle](https://lvkhomyakova.github.io/gem-puzzle/)
+* [VirtualKeyboard](https://lvkhomyakova.github.io/VirtualKeyboard/dist/)
+* [Singolo](https://lvkhomyakova.github.io/singolo/)
 * [Anatomy](https://github.com/LVKhomyakova/lvkhomyakova.github.io) Graduation project for the course "Website development using HTML, CSS, Javascript".
 
 ### 7. Education:
