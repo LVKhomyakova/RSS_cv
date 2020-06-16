@@ -13,6 +13,7 @@ Basic knowledge of:
 * HTML5
 * CSS3
 * JS
+* C#
 
 ### 5. Code examples:
 [https://github.com/LVKhomyakova](https://github.com/LVKhomyakova)
