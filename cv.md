@@ -34,7 +34,7 @@ Basic knowledge of:
 * [Anatomy (markup)](https://github.com/LVKhomyakova/lvkhomyakova.github.io) 
 
 ### 7. Education:
-* «Angular и NgRx» ((Udemy)[https://www.udemy.com/course/angular-and-ngrx-writing-real-project-from-scratch/]). 2020
+* «Angular и NgRx» ([Udemy](https://www.udemy.com/course/angular-and-ngrx-writing-real-project-from-scratch/)). 2020
 * «JavaScript/Front-end» ([The Rolling Scopes School](https://rs.school/js/)). 2020
 * JavaScript web application development ([IT-Academy](https://www.it-academy.by/course/front-end-developer/razrabotka-veb-prilozheniy-na-javascript/)). 2020
 * Website development using HTML, CSS, JavaScript ([IT-Academy](https://www.it-academy.by/course/front-end-developer/fd1-razrabotka-veb-saytov-s-ispolzovaniem-html-css-i-javascript/)). 2020
