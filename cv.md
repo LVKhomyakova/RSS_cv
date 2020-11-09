@@ -3,7 +3,7 @@ Lyudmila Khomyakova
 ### 2. Contact Info:
 - :phone: +375 44 700-08-19
 - :e-mail: LV.Khomyakova@gmail.com
-- :clipboard: (LinkedIn)[https://www.linkedin.com/in/%D0%BB%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0-%D1%85%D0%BE%D0%BC%D1%8F%D0%BA%D0%BE%D0%B2%D0%B0-20b6791b0/]
+- :clipboard: [LinkedIn](https://www.linkedin.com/in/%D0%BB%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0-%D1%85%D0%BE%D0%BC%D1%8F%D0%BA%D0%BE%D0%B2%D0%B0-20b6791b0/)
 
 ### 3. Summary:
 I want to realize myself as a Front-end Developer. 
@@ -34,7 +34,7 @@ Basic knowledge of:
 * [Anatomy (markup)](https://github.com/LVKhomyakova/lvkhomyakova.github.io) 
 
 ### 7. Education:
-* «Angular и NgRx» ((Udemy)[https://www.udemy.com/course/angular-and-ngrx-writing-real-project-from-scratch/]). 2020
+* «Angular и NgRx» ([Udemy](https://www.udemy.com/course/angular-and-ngrx-writing-real-project-from-scratch/)). 2020
 * «JavaScript/Front-end» ([The Rolling Scopes School](https://rs.school/js/)). 2020
 * JavaScript web application development ([IT-Academy](https://www.it-academy.by/course/front-end-developer/razrabotka-veb-prilozheniy-na-javascript/)). 2020
 * Website development using HTML, CSS, JavaScript ([IT-Academy](https://www.it-academy.by/course/front-end-developer/fd1-razrabotka-veb-saytov-s-ispolzovaniem-html-css-i-javascript/)). 2020
