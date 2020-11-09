@@ -3,11 +3,16 @@ Lyudmila Khomyakova
 ### 2. Contact Info:
 - :phone: +375 44 700-08-19
 - :e-mail: LV.Khomyakova@gmail.com
+- :clipboard: (LinkedIn)[https://www.linkedin.com/in/%D0%BB%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0-%D1%85%D0%BE%D0%BC%D1%8F%D0%BA%D0%BE%D0%B2%D0%B0-20b6791b0/]
 
 ### 3. Summary:
-I want to realize myself as a Front-end Developer. I am responsible, accurate, keep myself up to date on the latest technology and improve my skills.
+I want to realize myself as a Front-end Developer. 
+I'm actively studying Front-end Development and improving my skills.
+I am responsible, accurate, keep myself up to date on the latest technology.
+
 ### 4. Skills:
 Basic knowledge of:
+* Angular, RxJS, NgRx
 * .NET Framework
 * SQL
 * HTML5

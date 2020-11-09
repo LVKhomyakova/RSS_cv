@@ -119,6 +119,16 @@ section{
     background-repeat: no-repeat;
     background-position: center;
 }
+.ico_linkedin::before{
+    display: inline-block;
+    content: '';
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    background-image: url(linkedin.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .title_summary::before{
     display: inline-block;
     content: '';
