@@ -1,7 +1,8 @@
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #fce8d6cc;
+    background-color: #E2DBD4;
+    color: #000C13;
 }
 h1{
     margin: 0;
@@ -16,8 +17,8 @@ h1{
     align-items: center;
     height: 60px;
     padding: 30px;
-    color: white;
-    background-color: #6b8e23;
+    color: #E2DBD4;
+    background-color: #23323F;
 }
 .main{
     display: grid;
@@ -53,6 +54,10 @@ section{
     justify-content: flex-start;
     align-items: center;
     font-size: 20px;
+    font-weight: bold;
+    color: #83292D;
+}
+.subtitle{
     font-weight: bold;
 }
 /* sections  */
