@@ -28,9 +28,9 @@ Basic knowledge of:
 * [Fancy weather](https://lvkhomyakova-fancy-weather.netlify.app/)
 * [Movie search](https://lvkhomyakova-movie-search.netlify.app/)
 * [English for kids](https://lvkhomyakova-english-for-kids.netlify.app/)
-* [Gem puzzle (without markup)](https://lvkhomyakova.github.io/gem-puzzle/)
-* [VirtualKeyboard](https://lvkhomyakova.github.io/VirtualKeyboard/dist/)
-* [Singolo (markup)](https://lvkhomyakova.github.io/singolo/)
+* [Gem puzzle (without markup)](https://lvkhomyakova.github.io/RSS_gem-puzzle/)
+* [VirtualKeyboard](https://lvkhomyakova.github.io/RSS_VirtualKeyboard/dist/)
+* [Singolo (markup)](https://lvkhomyakova.github.io/RSS_singolo/)
 * [Anatomy (markup)](https://github.com/LVKhomyakova/lvkhomyakova.github.io) 
 
 ### 7. Education:
