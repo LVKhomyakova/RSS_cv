@@ -8,7 +8,7 @@ Lyudmila Khomyakova
 ### 3. Summary:
 I want to realize myself as a Front-end Developer. 
 I'm actively studying Front-end Development and improving my skills.
-I am responsible, accurate, keep myself up to date on the latest technology.
+I am responsible and keep myself up to date on the latest technology.
 
 ### 4. Skills:
 Basic knowledge of:
@@ -32,6 +32,7 @@ Basic knowledge of:
 * [Movie search](https://lvkhomyakova-movie-search.netlify.app/)* 
 * [Gem puzzle (without markup)](https://lvkhomyakova.github.io/RSS_gem-puzzle/)
 * [VirtualKeyboard](https://lvkhomyakova.github.io/RSS_VirtualKeyboard/dist/)
+
 (HTML, CSS)
 * [Singolo (markup)](https://lvkhomyakova.github.io/RSS_singolo/)
 * [Anatomy (markup)](https://lvkhomyakova.github.io/index.html) 
