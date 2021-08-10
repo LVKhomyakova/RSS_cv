@@ -29,7 +29,7 @@ Basic knowledge of:
 * [English puzzle](https://lvkhomyakova-english-puzzle.netlify.app/)
 * [English for kids](https://lvkhomyakova-english-for-kids.netlify.app/)
 * [Fancy weather](https://lvkhomyakova-fancy-weather.netlify.app/)
-* [Movie search](https://lvkhomyakova-movie-search.netlify.app/)* 
+* [Movie search](https://lvkhomyakova-movie-search.netlify.app/)
 * [Gem puzzle (without markup)](https://lvkhomyakova.github.io/RSS_gem-puzzle/)
 * [VirtualKeyboard](https://lvkhomyakova.github.io/RSS_VirtualKeyboard/dist/)
 
