@@ -11,11 +11,13 @@ I'm actively studying Front-end Development and improving my skills.
 I am responsible and keep myself up to date on the latest technology.
 
 ### 4. Skills:
-Basic knowledge of:
+
 * Angular, RxJS, NgRx
 * HTML5
 * CSS3
 * JS
+
+Basic knowledge of:
 * .NET Framework
 * SQL
 * C#
