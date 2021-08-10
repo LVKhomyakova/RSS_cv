@@ -8,30 +8,34 @@ Lyudmila Khomyakova
 ### 3. Summary:
 I want to realize myself as a Front-end Developer. 
 I'm actively studying Front-end Development and improving my skills.
-I am responsible, accurate, keep myself up to date on the latest technology.
+I am responsible and keep myself up to date on the latest technology.
 
 ### 4. Skills:
 Basic knowledge of:
 * Angular, RxJS, NgRx
-* .NET Framework
-* SQL
 * HTML5
 * CSS3
 * JS
+* .NET Framework
+* SQL
 * C#
 
 ### 5. Code examples:
 [https://github.com/LVKhomyakova](https://github.com/LVKhomyakova)
   
 ### 6. Experience:
+(JS, HTML, CSS)
+* [RSLang](https://rslang-team12-lvkhomyakova.netlify.app/)
 * [English puzzle](https://lvkhomyakova-english-puzzle.netlify.app/)
-* [Fancy weather](https://lvkhomyakova-fancy-weather.netlify.app/)
-* [Movie search](https://lvkhomyakova-movie-search.netlify.app/)
 * [English for kids](https://lvkhomyakova-english-for-kids.netlify.app/)
+* [Fancy weather](https://lvkhomyakova-fancy-weather.netlify.app/)
+* [Movie search](https://lvkhomyakova-movie-search.netlify.app/)* 
 * [Gem puzzle (without markup)](https://lvkhomyakova.github.io/RSS_gem-puzzle/)
 * [VirtualKeyboard](https://lvkhomyakova.github.io/RSS_VirtualKeyboard/dist/)
+
+(HTML, CSS)
 * [Singolo (markup)](https://lvkhomyakova.github.io/RSS_singolo/)
-* [Anatomy (markup)](https://github.com/LVKhomyakova/lvkhomyakova.github.io) 
+* [Anatomy (markup)](https://lvkhomyakova.github.io/index.html) 
 
 ### 7. Education:
 * «Angular и NgRx» ([Udemy](https://www.udemy.com/course/angular-and-ngrx-writing-real-project-from-scratch/)). 2020
